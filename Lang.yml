@@ -1,0 +1,5 @@
+#LANGUAGE File
+ReloadMessage:  '&2Config reloaded'
+EnableMessage:  '&5Superpick Enabled!'
+DisableMessage:  '&dSuperpick Disabled!'
+NO_PERMISSION: '&cSorry you do not have permission to do this!'
