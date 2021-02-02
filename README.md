@@ -8,21 +8,21 @@
 
 1.0Snapshot
 
-##Commands
+## Commands
 
-####/superpick
+#### /superpick
     description: Toggle Superpick
     aliases: sp, spick
     
-####****/Superpickreload 
+#### ****/Superpickreload 
     description: Reload the Superpick config
     aliases: spreload, spr
     ***THIS DOES NOTHING ADDED FOR LATER USE!*****
     
-##Permissions
-####dc.superpick.toggle:
+## Permissions
+#### dc.superpick.toggle:
         description: Give permission to toggle Superpick
         default: false
-####dc.superpick.reload:
+#### dc.superpick.reload:
         description: Give permission to reload Superpick Config
         default: false
