@@ -5,15 +5,20 @@
 ### For help and updates Please use discord Button above
 
 ## initial release 
+
 1.0Snapshot
+
 ##Commands
+
 ####/superpick
     description: Toggle Superpick
     aliases: sp, spick
+    
 ####****/Superpickreload 
     description: Reload the Superpick config
     aliases: spreload, spr
     ***THIS DOES NOTHING ADDED FOR LATER USE!*****
+    
 ##Permissions
 ####dc.superpick.toggle:
         description: Give permission to toggle Superpick
