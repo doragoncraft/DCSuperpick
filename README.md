@@ -1,6 +1,5 @@
 # superpick
 
-![GitHub issues](https://img.shields.io/github/issues/doragoncraft/superpick.svg?style=for-the-badge)
 [![Discord](https://img.shields.io/discord/805811715228303421.svg?style=for-the-badge)](https://discordapp.com/invite/Sg5gYUNjCq)
 
 ### For help and updates Please use discord Button above
